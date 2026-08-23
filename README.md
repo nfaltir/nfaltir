@@ -4,12 +4,14 @@
 
 `[ SYSTEM ONLINE ]` · `[ PDX/PNW · UTC-8 ]` · `[ ENGINEERING & PRODUCT ]`
 
+<a href="https://www.norvinfaltir.com">🦜🥭🌴</a>
+
 </div>
 
 ---
 
 ```console
-norvin@nodelab:~$ whoami
+norvin@nodelab:~$ whoami 
 ```
 
 ```
