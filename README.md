@@ -4,7 +4,7 @@
 
 `[ SYSTEM ONLINE ]` · `[ PDX/PNW · UTC-8 ]` · `[ ENGINEERING & PRODUCT ]`
 
-<a href="https://www.norvinfaltir.com" traget="_blank">🦜🥭🌴</a>
+<a href="https://www.norvinfaltir.com" target="_blank">🦜🥭🌴</a>
 
 </div>
 
