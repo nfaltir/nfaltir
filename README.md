@@ -13,7 +13,7 @@ norvin@nodelab:~$ whoami
 ```
 
 ```
-> Solo engineer-operator. I build financial data tooling end to end —
+> Software Engineer. I build financial data tooling end to end —
 > ingestion, domain logic, rendering, distribution.
 >
 > Currently: Nodelab, a Django platform that turns SEC EDGAR / FRED /
@@ -65,9 +65,9 @@ drwxr-xr-x  homebase/         property + contractor management
 **`>` [nodelab](#)** — Django platform for financial charts. Hexagonal
 architecture, framework-free domain core. Point & figure with trendline and
 S/R detection, revenue breakdowns off SEC EDGAR, treemaps, FRED macro series,
-9:16 mobile renders. Go extraction points wired at the hot paths.
+9:16 mobile renders. Golang extraction points wired at the hot paths.
 
-**`>` [vault](#)** — Browser-native encryption in Go/WASM. AES-256-GCM +
+**`>` [vault](#)** — Browser-native encryption in Golang/WASM. AES-256-GCM +
 Argon2id, streaming chunked pipeline across Web Workers, custom `VAULT2`
 binary format, tar+gzip directory mode. Post-quantum hybrid scoped.
 
@@ -92,9 +92,7 @@ contractors. Google Places with OSM fallback, generated reports and brochures.
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────┐
-│  build small. ship often. own the stack.     │
-└──────────────────────────────────────────────┘
+ Always learning. Always building 🍍💯      
 ```
 
 [![X](https://img.shields.io/badge/@NODELOOKUP-0D1117?style=for-the-badge&logo=x&logoColor=7FE04A&labelColor=0D1117)](https://x.com/Nodelookup)
