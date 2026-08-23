@@ -98,6 +98,6 @@ contractors. Google Places with OSM fallback, generated reports and brochures.
 [![X](https://img.shields.io/badge/@NODELOOKUP-0D1117?style=for-the-badge&logo=x&logoColor=7FE04A&labelColor=0D1117)](https://x.com/Nodelookup)
 [![YouTube](https://img.shields.io/badge/NODELOOKUP-0D1117?style=for-the-badge&logo=youtube&logoColor=7FE04A&labelColor=0D1117)](#)
 
-`norvin@nodelab:~$ ` █
+`norvin@nodelab:~$ ` 
 
 </div>
